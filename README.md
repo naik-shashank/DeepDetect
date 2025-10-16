@@ -42,5 +42,7 @@ Installation & Setup:
 
 3. Visit http://localhost:3000 in your browser to access DeepDetect.
 
+Model Training Code: https://colab.research.google.com/drive/1m9NOIhfSaEEQcTBpPUbQIv9437btupcU?usp=sharing
+
 For any issues, feel free to raise an issue on GitHub.
 
